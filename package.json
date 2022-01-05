@@ -1,10 +1,10 @@
 {
-	"name": "tinder-react-native",
+	"name": "Tinder-Clone-React",
 	"description": "Tinder React Native clone",
 	"version": "0.2.0",
-	"author": "Steven Persia",
+	"author": "Matheus Sodré",
 	"licence": "MIT",
-	"homepage": "https://github.com/stevenpersia/tinder-react-native",
+	"homepage": "https://github.com/MatheusSodreS/Tinder-Clone-React",
 	"private": true,
 	"scripts": {
 		"lint": "eslint ./components ./containers --fix",
