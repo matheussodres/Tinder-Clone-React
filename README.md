@@ -1,9 +1,4 @@
 <h1 align="center">
-<img
-		width="250"
-		alt="Tinder Clone - React Native"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinder-clone-logo.gif">
-</h1>
 <h3 align="center">
 	Tinder Clone - React Native
 </h3>
