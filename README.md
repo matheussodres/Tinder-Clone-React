@@ -20,19 +20,19 @@
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-1.png">
+		src="https://github.com/MatheusSodreS/Tinder-Clone-React/blob/main/preview/capture-1.png">
 <img
 		width="210"
 		alt="Capture 2"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-2.png">
+		src="https://github.com/MatheusSodreS/Tinder-Clone-React/blob/main/preview/capture-2.png">
 <img
 		width="210"
 		alt="Capture 3"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-3.png">
+		src="https://github.com/MatheusSodreS/Tinder-Clone-React/blob/main/preview/capture-3.png">
 <img
 		width="210"
 		alt="Capture 4"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-4.png">
+		src="https://github.com/MatheusSodreS/Tinder-Clone-React/blob/main/preview/capture-4.png">
 
 
 ## Installation and usage
@@ -47,7 +47,7 @@ This project works fine for iOS but in Android version there are serious UI prob
 Clone this repository :
 
 ```
-git clone https://github.com/stevenpersia/tinder-react-native.git
+git clone https://github.com/MatheusSodreS/Tinder-Clone-React.git
 cd tinder-react-native
 ```
 
