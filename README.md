@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinderclone-preview.gif" width="300">
+	<img src="https://github.com/MatheusSodreS/Tinder-Clone-React/blob/main/preview/tinderclone-preview.gif" width="300">
 </p>
 
 
