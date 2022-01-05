@@ -14,18 +14,6 @@
 </p>
 
 
-## Overview
-
-⚠️ **This repository is not maintain anymore. I've made another repository of this project on Expo (and with Typescript) : https://github.com/stevenpersia/tinder-expo.**
-
-👏 **Thank you for your stars, your issues and your pull requests. I really love open source community.** ❤️
-
-**Perfect to start an Tinder Clone app.** 4 screens are availables : Explore, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
-
-More features will be added to the project in the future.
-
-This project was inspired by this [amazing Kishore's work on Dribbble](https://dribbble.com/shots/5631075-Dating-App-Sketch-Freebie-Day-334-365-Project365). Feel free to follow this guy because he does great stuff.
-
 
 ## Screenshots
 
@@ -125,11 +113,5 @@ Feel free to contribute on this repository. If my work helps you, please give me
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table>
-  <tr>
-<td align="center"><a href="http://Skibudsapp.com"><img src="https://avatars3.githubusercontent.com/u/25047763?v=4" width="100px;" alt="Stephen Phillips"/><br /><sub><b>Stephen Phillips</b></sub></a><br /><a href="#question-Sbphillips19" title="Answering Questions">💬</a></td>
-<td align="center"><a href="https://github.com/anand9"><img src="https://avatars3.githubusercontent.com/u/638590?v=4" width="100px;" alt="Anand Vasudevan "/><br /><sub><b>Anand Vasudevan </b></sub></a><br /><a href="https://github.com/stevenpersia/tinder-react-native/commits?author=anand9" title="Code">💻</a></td>
-  </tr>
-</table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
